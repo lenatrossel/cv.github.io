@@ -1,0 +1,72 @@
+body{ 
+background-color: rgb(146, 121, 83);
+}
+
+h1{ 
+color: rgb(85, 65, 11);
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h1:hover{
+    color: rgb(51, 49, 37);
+}
+
+li{
+    color: cornsilk;
+}
+
+h2{ 
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgb(85, 68, 21);
+
+}
+
+h2:hover{ 
+    
+    color: rgb(53, 44, 21);
+
+}
+
+ul{ 
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#pp{
+    border-radius: 300px;
+    margin: auto;
+    display: block;
+    width: 250px;
+}
+
+#linkedin{
+    width: 50px;
+}
+
+#insta{
+    width: 50px;
+}
+
+#mail{
+    width: 50px;
+}
+
+
+#container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.block{
+    background-color: white;
+    color: white;
+    border-radius: 50px;
+    padding: 1px;
+    padding-left: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    margin-top: 150px;
+    
+}
